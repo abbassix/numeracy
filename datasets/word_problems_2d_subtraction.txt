@@ -1,0 +1,100 @@
+Emma had 5 apples. She ate 2. How many apples does she have left? Answer: 3
+Liam had 6 marbles. He lost 4. How many marbles does he have now? Answer: 2
+Olivia had 9 candies. She gave 3 to her friend. How many candies does she have left? Answer: 6
+Noah had 7 toy cars. He gave 1 to his brother. How many toy cars does he have now? Answer: 6
+Ava had 8 balloons. One popped. How many balloons are left? Answer: 7
+Oliver had 3 cookies. He ate 1. How many cookies are left? Answer: 2
+Sophia had 4 dolls. She gave 2 to her sister. How many dolls does she have now? Answer: 2
+Elijah had 5 crayons. He lost 3. How many crayons are left? Answer: 2
+Mia had 7 books. She gave 2 to her friend. How many books does she have now? Answer: 5
+Lucas had 6 blocks. He gave 3 to his friend. How many blocks does he have now? Answer: 3
+Amelia had 5 stickers. She used 2. How many stickers does she have left? Answer: 3
+James had 9 balls. He lost 4. How many balls does he have now? Answer: 5
+Charlotte had 8 toy animals. She gave 3 away. How many does she have left? Answer: 5
+Benjamin had 7 toy trucks. He gave 5 to his brother. How many does he have now? Answer: 2
+Harper had 4 erasers. She lost 1. How many erasers does she have now? Answer: 3
+Mason had 6 pencils. He gave 2 to his friend. How many pencils does he have now? Answer: 4
+Evelyn had 5 bracelets. She gave 1 to her friend. How many bracelets does she have now? Answer: 4
+Ethan had 8 toy dinosaurs. He lost 2. How many toy dinosaurs does he have now? Answer: 6
+Abigail had 6 hair clips. She lost 3. How many hair clips does she have now? Answer: 3
+Logan had 4 action figures. He gave 2 away. How many does he have now? Answer: 2
+Ella had 7 ribbons. She gave 4 to her friend. How many ribbons does she have now? Answer: 3
+Jackson had 9 stamps. He lost 5. How many stamps does he have now? Answer: 4
+Lily had 6 rings. She gave 2 to her sister. How many rings does she have now? Answer: 4
+Aiden had 5 keychains. He lost 2. How many keychains does he have now? Answer: 3
+Grace had 3 bookmarks. She gave 1 to her friend. How many bookmarks does she have now? Answer: 2
+Sebastian had 7 balls of clay. He gave 3 away. How many does he have now? Answer: 4
+Zoey had 4 toy cars. She lost 1. How many toy cars does she have now? Answer: 3
+Matthew had 8 toy trains. He gave 5 to his brother. How many does he have now? Answer: 3
+Hannah had 6 toy animals. She lost 4. How many does she have now? Answer: 2
+Jack had 5 coins. He gave 3 to his friend. How many coins does he have now? Answer: 2
+Lily had 8 candies. She ate 6. How many does she have now? Answer: 2
+Caleb had 7 rubber bands. He lost 4. How many rubber bands does he have now? Answer: 3
+Chloe had 9 shells. She gave 7 to her sister. How many does she have now? Answer: 2
+Henry had 6 rocks. He lost 3. How many rocks does he have now? Answer: 3
+Mia had 8 hair ties. She lost 5. How many hair ties does she have now? Answer: 3
+Luke had 7 toy cars. He gave 4 to his brother. How many does he have now? Answer: 3
+Ella had 6 pencils. She lost 4. How many pencils does she have now? Answer: 2
+Alexander had 4 crayons. He gave 2 away. How many does he have now? Answer: 2
+Sofia had 9 beads. She lost 7. How many beads does she have now? Answer: 2
+Daniel had 5 stickers. He gave 2 to his friend. How many stickers does he have now? Answer: 3
+Isla had 7 bracelets. She gave 4 away. How many does she have now? Answer: 3
+William had 8 marbles. He lost 6. How many marbles does he have now? Answer: 2
+Aria had 6 stamps. She lost 3. How many stamps does she have now? Answer: 3
+Wyatt had 4 keychains. He gave 1 away. How many does he have now? Answer: 3
+Riley had 9 toy animals. She lost 5. How many does she have now? Answer: 4
+Leo had 6 blocks. He gave 3 to his friend. How many blocks does he have now? Answer: 3
+Aubrey had 8 balloons. She gave 5 to her friend. How many does she have now? Answer: 3
+Logan had 7 books. He lost 4. How many books does he have now? Answer: 3
+Nora had 6 toy trucks. She gave 2 away. How many does she have now? Answer: 4
+Ethan had 5 action figures. He gave 3 to his brother. How many does he have now? Answer: 2
+Sarah had 15 pencils. She gave 6 to her friend. How many pencils does she have left? Answer: 9
+Jake had 20 marbles. He lost 7. How many marbles does he have now? Answer: 13
+Emma had 18 candies. She gave 8 to her brother. How many candies does she have left? Answer: 10
+Liam had 25 toy cars. He gave 10 to his friend. How many toy cars does he have now? Answer: 15
+Olivia had 30 balloons. Five popped. How many balloons are left? Answer: 25
+Noah had 12 cookies. He ate 5. How many cookies are left? Answer: 7
+Ava had 14 dolls. She gave 6 to her sister. How many dolls does she have now? Answer: 8
+Oliver had 11 crayons. He lost 3. How many crayons are left? Answer: 8
+Sophia had 23 books. She gave 7 to her friend. How many books does she have now? Answer: 16
+Elijah had 19 blocks. He gave 8 to his friend. How many blocks does he have now? Answer: 11
+Mia had 21 stickers. She used 9. How many stickers does she have left? Answer: 12
+Lucas had 16 balls. He lost 4. How many balls does he have now? Answer: 12
+Charlotte had 22 toy animals. She gave 5 away. How many does she have left? Answer: 17
+Benjamin had 18 toy trucks. He gave 10 to his brother. How many does he have now? Answer: 8
+Harper had 15 erasers. She lost 6. How many erasers does she have now? Answer: 9
+Mason had 13 pencils. He gave 5 to his friend. How many pencils does he have now? Answer: 8
+Evelyn had 17 bracelets. She gave 7 to her friend. How many bracelets does she have now? Answer: 10
+Ethan had 20 toy dinosaurs. He lost 9. How many toy dinosaurs does he have now? Answer: 11
+Abigail had 14 hair clips. She lost 6. How many hair clips does she have now? Answer: 8
+Logan had 12 action figures. He gave 4 away. How many does he have now? Answer: 8
+Ella had 22 ribbons. She gave 8 to her friend. How many ribbons does she have now? Answer: 14
+Jackson had 27 stamps. He lost 11. How many stamps does he have now? Answer: 16
+Lily had 19 rings. She gave 7 to her sister. How many rings does she have now? Answer: 12
+Aiden had 21 keychains. He lost 8. How many keychains does he have now? Answer: 13
+Grace had 14 bookmarks. She gave 5 to her friend. How many bookmarks does she have now? Answer: 9
+Sebastian had 18 balls of clay. He gave 7 away. How many does he have now? Answer: 11
+Zoey had 13 toy cars. She lost 5. How many toy cars does she have now? Answer: 8
+Matthew had 24 toy trains. He gave 10 to his brother. How many does he have now? Answer: 14
+Hannah had 16 toy animals. She lost 7. How many does she have now? Answer: 9
+Jack had 15 coins. He gave 6 to his friend. How many coins does he have now? Answer: 9
+Lily had 21 candies. She ate 9. How many does she have now? Answer: 12
+Caleb had 17 rubber bands. He lost 8. How many rubber bands does he have now? Answer: 9
+Chloe had 23 shells. She gave 11 to her sister. How many does she have now? Answer: 12
+Henry had 19 rocks. He lost 7. How many rocks does he have now? Answer: 12
+Mia had 22 hair ties. She lost 10. How many hair ties does she have now? Answer: 12
+Luke had 18 toy cars. He gave 9 to his brother. How many does he have now? Answer: 9
+Ella had 14 pencils. She lost 6. How many pencils does she have now? Answer: 8
+Alexander had 12 crayons. He gave 5 away. How many does he have now? Answer: 7
+Sofia had 25 beads. She lost 13. How many beads does she have now? Answer: 12
+Daniel had 20 stickers. He gave 8 to his friend. How many stickers does he have now? Answer: 12
+Isla had 18 bracelets. She gave 7 away. How many does she have now? Answer: 11
+William had 23 marbles. He lost 12. How many marbles does he have now? Answer: 11
+Aria had 16 stamps. She lost 9. How many stamps does she have now? Answer: 7
+Wyatt had 14 keychains. He gave 6 away. How many does he have now? Answer: 8
+Riley had 21 toy animals. She lost 11. How many does she have now? Answer: 10
+Leo had 17 blocks. He gave 8 to his friend. How many blocks does he have now? Answer: 9
+Aubrey had 22 balloons. She gave 10 to her friend. How many does she have now? Answer: 12
+Logan had 19 books. He lost 9. How many books does he have now? Answer: 10
+Nora had 16 toy trucks. She gave 7 away. How many does she have now? Answer: 9
+Ethan had 15 action figures. He gave 8 to his brother. How many does he have now? Answer: 7
