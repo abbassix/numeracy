@@ -1,0 +1,4 @@
+python3 fine-tune.py --model-checkpoint-path distilbert/distilbert-base-uncased --approach spaced --operation multiplication --batch-size 32 --epochs 10 --learning-rate 4e-5 3e-5 2e-5 --data-collator custom --verbose --n-sample 200
+python3 fine-tune.py --model-checkpoint-path distilbert/distilbert-base-uncased --approach baseline --operation multiplication --batch-size 32 --epochs 10 --learning-rate 4e-5 3e-5 2e-5 --data-collator custom --verbose --n-sample 200
+python3 fine-tune.py --model-checkpoint-path distilbert/distilbert-base-uncased --approach baseline --operation subtraction --batch-size 32 --epochs 10 --learning-rate 4e-5 3e-5 2e-5 --data-collator custom --verbose --n-sample 200
+python3 fine-tune.py --model-checkpoint-path distilbert/distilbert-base-uncased --approach spaced --operation subtraction --batch-size 32 --epochs 10 --learning-rate 4e-5 3e-5 2e-5 --data-collator custom --verbose --n-sample 200
